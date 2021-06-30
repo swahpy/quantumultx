@@ -14,3 +14,11 @@ ip-cidr,103.44.56.0/22,iQiyi-Intl
 ip-cidr,118.26.120.0/24,iQiyi-Intl
 ip-cidr,118.26.32.0/23,iQiyi-Intl
 ip-cidr,223.119.62.225/28,iQiyi-Intl
+# add myself
+host,cache-video.iq.com,iQiyi-Intl
+host,ndct-data.video.iqiyi.com,iQiyi-Intl
+host,intl.iqiyi.com,iQiyi-Intl
+host-suffix,iqiyipic.com,iQiyi-Intl
+host,intl-sns.iqiyi.com,iQiyi-Intl
+host,intl-im-hist-api.iqiyi.com,iQiyi-Intl
+host,qosp.iqiyi.com,iQiyi-Intl
