@@ -7,3 +7,11 @@ host,api.viu.now.com,ViuTV
 host,d1k2us671qcoau.cloudfront.net,ViuTV
 host,d2anahhhmp1ffz.cloudfront.net,ViuTV
 host,dfp6rglgjqszk.cloudfront.net,ViuTV
+# add myself
+host,api.mixpanel.com,ViuTV
+host,firestore.googleapis.com,ViuTV
+host,platform-lookaside.fbsbx.com,ViuTV
+host,entitlements.jwplayer.com,ViuTV
+host,pccw-cf-epl.akamaized.net,ViuTV
+host,pubads.g.doubleclick.net,ViuTV
+host,csi.gstatic.com,ViuTV
