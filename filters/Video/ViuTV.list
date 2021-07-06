@@ -3,7 +3,7 @@ user-agent,Viu*,ViuTV
 user-agent,ViuTV*,ViuTV
 #host-suffix,viu.com,ViuTV
 #host-suffix,viu.tv,ViuTV
-#host,api.viu.now.com,ViuTV
+host,api.viu.now.com,ViuTV
 host,d1k2us671qcoau.cloudfront.net,ViuTV
 host,d2anahhhmp1ffz.cloudfront.net,ViuTV
 host,dfp6rglgjqszk.cloudfront.net,ViuTV
@@ -29,7 +29,7 @@ host-suffix,entitlements.jwplayer.com,ViuTV
 host-suffix,ssl.p.jwpcdn.com,ViuTV
 host-suffix,api.viu.tv,ViuTV
 host-suffix,viu.tv,ViuTV
-host-suffix,api.viu.now.com,ViuTV
+host-suffix,viu.now.com,ViuTV
 host-suffix,static.viu.tv,ViuTV
 host-suffix,nowestatic.com,ViuTV
 host-suffix,sdeweb.hkcsl.com,ViuTV
