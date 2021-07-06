@@ -1661,6 +1661,14 @@ proxy-groups:
       - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
       - 🚀 手动切换
+  - name: Paramount
+    type: select
+    proxies:
+      - 🇺🇲 美国节点
+      - 🇭🇰 香港节点
+      - 🇨🇳 台湾节点
+      - 🇸🇬 狮城节点
+      - 🚀 手动切换
   - name: 🎥 奈飞视频
     type: select
     proxies:
@@ -1918,6 +1926,32 @@ proxy-groups:
     proxies:
       - DIRECT
 rules:
+  - DOMAIN-SUFFIX,sp.analytics.yahoo.com,Paramount
+  - DOMAIN-SUFFIX,cedexis-test.com,Paramount
+  - DOMAIN-SUFFIX,web-sdk.control.kochava.com,Paramount
+  - DOMAIN-SUFFIX,assets.kochava.com,Paramount
+  - DOMAIN-SUFFIX,secure-dcr.imrworldwide.com,Paramount
+  - DOMAIN-SUFFIX,sb.scorecardresearch.com,Paramount
+  - DOMAIN-SUFFIX,cbsnstream.cbsnews.com,Paramount
+  - DOMAIN-SUFFIX,cdn-gl.imrworldwide.com,Paramount
+  - DOMAIN-SUFFIX,vh1-sp.ts.mtvnservices.com,Paramount
+  - DOMAIN-SUFFIX,doppler-reporting.cbsivideo.com,Paramount
+  - DOMAIN-SUFFIX,vod62c350g.airspace-f.cbsivideo.com,Paramount
+  - DOMAIN-SUFFIX,rpt.cedexis.com,Paramount
+  - DOMAIN-SUFFIX,mediag2481ed.airspace-e.cbsivideo.com,Paramount
+  - DOMAIN-SUFFIX,b.ns1p.net,Paramount
+  - DOMAIN-SUFFIX,dpm.demdex.net,Paramount
+  - DOMAIN-SUFFIX,tags.tiqcdn.com,Paramount
+  - DOMAIN-SUFFIX,o289042.ingest.sentry.io,Paramount
+  - DOMAIN-SUFFIX,cbsi.live.ott.irdeto.com,Paramount
+  - DOMAIN-SUFFIX,vod-gcs-cedexis.cbsaavideo.com,Paramount
+  - DOMAIN-SUFFIX,7f077.v.fwmrm.net,Paramount
+  - DOMAIN-SUFFIX,link.theplatform.com,Paramount
+  - DOMAIN-SUFFIX,cv-68.global.ssl.fastly.net,Paramount
+  - DOMAIN-SUFFIX,ingest.sentry.io,Paramount
+  - DOMAIN-SUFFIX,i-amlg-prod.appspot.com,Paramount
+  - DOMAIN-SUFFIX,cdn.cookielaw.org,Paramount
+  - DOMAIN-SUFFIX,paramountplus.com,Paramount
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,HBOGO
   - DOMAIN-SUFFIX,hboasia5-i.akamaihd.net,HBOGO
   - DOMAIN-SUFFIX,hboasia4-i.akamaihd.net,HBOGO
@@ -1943,6 +1977,7 @@ rules:
   - DOMAIN-SUFFIX,www.hq.viu.com,Viu
   - DOMAIN-SUFFIX,www.viu.com,Viu
   - DOMAIN-SUFFIX,ipv4.cws.conviva.com,Viu
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net,ViuTV
   - DOMAIN-SUFFIX,api-js.mixpanel.com,ViuTV
   - DOMAIN-SUFFIX,viutv-cloudstore-prod.firebaseio.com,ViuTV
   - DOMAIN-SUFFIX,nexus-websocket-a.intercom.io,ViuTV
@@ -10954,4 +10989,3 @@ rules:
   - PROCESS-NAME,baidunetdisk.exe,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
-  - DOMAIN-SUFFIX,cdn.jsdelivr.net,ViuTV
