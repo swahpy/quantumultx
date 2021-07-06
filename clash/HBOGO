@@ -1,0 +1,13 @@
+- DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,HBOGO
+  - DOMAIN-SUFFIX,hboasia5-i.akamaihd.net,HBOGO
+  - DOMAIN-SUFFIX,hboasia4-i.akamaihd.net,HBOGO
+  - DOMAIN-SUFFIX,hboasia3-i.akamaihd.net,HBOGO
+  - DOMAIN-SUFFIX,hboasia2-i.akamaihd.net,HBOGO
+  - DOMAIN-SUFFIX,hboasia1-i.akamaihd.net,HBOGO
+  - DOMAIN-SUFFIX,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,HBOGO
+  - DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net,HBOGO
+  - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com,HBOGO
+  - DOMAIN-SUFFIX,players.brightcove.net,HBOGO
+  - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net,HBOGO
+  - DOMAIN-SUFFIX,hbogoasia.hk,HBOGO
+  - DOMAIN-SUFFIX,hbogoasia.com,HBOGO
