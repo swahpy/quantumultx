@@ -11,3 +11,12 @@
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net,HBOGO
   - DOMAIN-SUFFIX,hbogoasia.hk,HBOGO
   - DOMAIN-SUFFIX,hbogoasia.com,HBOGO
+  - PROCESS-NAME,hk.hbo.hbogo,HBOGO
+  - PROCESS-NAME,ph.hbo.hbogo,HBOGO
+  - DOMAIN-SUFFIX,hbogoasia.ph,HBOGO
+  - DOMAIN-KEYWORD,.hbogoasia.,HBOGO
+  - DOMAIN,hboasialive.akamaized.net,HBOGO
+  - DOMAIN,hbogoprod-vod.akamaized.net,HBOGO
+  - DOMAIN,hbolb.onwardsmg.com,HBOGO
+  - DOMAIN,hbounify-prod.evergent.com,HBOGO
+  - DOMAIN,players.brightcove.net,HBOGO
