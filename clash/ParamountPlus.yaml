@@ -1,6 +1,5 @@
 payload:  
   # > Paramount Plus
-  - USER-AGENT,PPlus*
   - PROCESS-NAME,com.cbs.app,Paramount
   - DOMAIN-SUFFIX,sp.analytics.yahoo.com,Paramount
   - DOMAIN-SUFFIX,can.cbs.com,Paramount
