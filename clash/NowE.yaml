@@ -1,3 +1,5 @@
-- PROCESS-NAME,com.pccw.nowemobile,NowE
+payload:  
+  # > Now E
+  - PROCESS-NAME,com.pccw.nowemobile,NowE
   - DOMAIN-SUFFIX,nowe.com,NowE
   - DOMAIN-SUFFIX,nowestatic.com,NowE
