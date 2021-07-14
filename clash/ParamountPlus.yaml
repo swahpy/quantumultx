@@ -15,8 +15,8 @@ payload:
   - DOMAIN-SUFFIX,cbsnstream.cbsnews.com,Paramount
   - DOMAIN-SUFFIX,cdn-gl.imrworldwide.com,Paramount
   - DOMAIN,cbsi.live.ott.irdeto.com,Paramount
-  - DOMAIN,cbsplaylistserver.aws.syncbak.com,Paramount
-  - DOMAIN,cbsservice.aws.syncbak.com,Paramount
+  - DOMAIN-SUFFIX,cbsplaylistserver.aws.syncbak.com,Paramount
+  - DOMAIN-SUFFIX,cbsservice.aws.syncbak.com,Paramount
   - DOMAIN-SUFFIX,vh1-sp.ts.mtvnservices.com,Paramount
   - DOMAIN-SUFFIX,b.ns1p.net,Paramount
   - DOMAIN-SUFFIX,dpm.demdex.net,Paramount
