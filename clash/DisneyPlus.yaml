@@ -1,4 +1,7 @@
-- DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com,Disney
+payload:  
+  # > Disney Plus
+  - PROCESS-NAME,com.disney.disneyplus,Disney
+  - DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com,Disney
   - DOMAIN-SUFFIX,ipv4.cws.conviva.com,Disney
   - DOMAIN-SUFFIX,stags.bluekai.com,Disney
   - DOMAIN-SUFFIX,js-agent.newrelic.com,Disney
@@ -14,6 +17,7 @@
   - DOMAIN-SUFFIX,disney.my.sentry.io,Disney
   - DOMAIN-SUFFIX,disney.demdex.net,Disney
   - DOMAIN-SUFFIX,disney-portal.my.onetrust.com,Disney
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,Disney
   - DOMAIN-SUFFIX,cdn.registerdisney.go.com,Disney
   - DOMAIN-SUFFIX,dssott.com,Disney
   - DOMAIN-SUFFIX,disneystreaming.com,Disney
