@@ -1,4 +1,6 @@
-- PROCESS-NAME,com.spotify.music,Spotify
+payload:  
+  # > Spotify
+  - PROCESS-NAME,com.spotify.music,Spotify
   - DOMAIN-SUFFIX,pscdn.co,Spotify
   - DOMAIN-SUFFIX,scdn.co,Spotify
   - DOMAIN-SUFFIX,spotify.com,Spotify
