@@ -1,5 +1,8 @@
 payload:  
-  # > HBO GO
+  # > HULU
+  - PROCESS-NAME,hk.hbo.hbogo,HBOGO
+  - PROCESS-NAME,ph.hbo.hbogo,HBOGO
+  - PROCESS-NAME,sg.hbo.hbogo,HBOGO
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,HBOGO
   - DOMAIN-SUFFIX,hboasia5-i.akamaihd.net,HBOGO
   - DOMAIN-SUFFIX,hboasia4-i.akamaihd.net,HBOGO
@@ -13,11 +16,8 @@ payload:
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net,HBOGO
   - DOMAIN-SUFFIX,hbogoasia.hk,HBOGO
   - DOMAIN-SUFFIX,hbogoasia.com,HBOGO
-  - PROCESS-NAME,hk.hbo.hbogo,HBOGO
-  - PROCESS-NAME,ph.hbo.hbogo,HBOGO
-  - PROCESS-NAME,sg.hbo.hbogo,HBOGO
   - DOMAIN-SUFFIX,hbogoasia.ph,HBOGO
-  - DOMAIN-KEYWORD,.hbogoasia.,HBOGO
+  - DOMAIN-KEYWORD,hbogoasia,HBOGO
   - DOMAIN,hboasialive.akamaized.net,HBOGO
   - DOMAIN,hbogoprod-vod.akamaized.net,HBOGO
   - DOMAIN,hbolb.onwardsmg.com,HBOGO
