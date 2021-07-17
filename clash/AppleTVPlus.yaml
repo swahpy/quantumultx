@@ -1,0 +1,15 @@
+payload:
+  # > Apple TV
+  - PROCESS-NAME,com.apple.atve.androidtv.appletv
+  - PROCESS-NAME,com.apple.atve.sony.appletv
+  - PROCESS-NAME,com.apple.atve.amazon.appletv
+  - DOMAIN-SUFFIX,appletv.com
+  - DOMAIN-SUFFIX,appletv.fr
+  - DOMAIN-SUFFIX,appletv.wang
+  - DOMAIN-SUFFIX,appletv4.cn
+  - DOMAIN-SUFFIX,appletv4.com.cn
+  - DOMAIN-SUFFIX,appletvapp.apple
+  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+  - DOMAIN-SUFFIX,hls.itunes.apple.com
+  - DOMAIN-SUFFIX,play-edge.itunes.apple.com
+  - DOMAIN-SUFFIX,tv.apple.com
