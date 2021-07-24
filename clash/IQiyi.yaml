@@ -19,6 +19,8 @@ payload:
   - IP-CIDR,223.119.248.0/24,台湾爱奇艺,no-resolve
   - IP-CIDR,111.202.64.0/24,台湾爱奇艺,no-resolve
   - IP-CIDR,203.80.97.0/24,台湾爱奇艺,no-resolve
+  - IP-CIDR,110.238.107.47/32,台湾爱奇艺,no-resolve
+  - IP-CIDR,118.26.32.16/32,台湾爱奇艺,no-resolve
   - IP-CIDR,39.156.41.0/24,台湾爱奇艺,no-resolve #chinae mobile
   - IP-CIDR,111.10.38.0/24,台湾爱奇艺,no-resolve #china mobile
   - DOMAIN-SUFFIX,71.am,台湾爱奇艺
