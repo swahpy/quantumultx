@@ -10,13 +10,17 @@ payload:
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,ViuTV
   - DOMAIN-SUFFIX,platform-lookaside.fbsbx.com,ViuTV
   - DOMAIN-SUFFIX,entitlements.jwplayer.com,ViuTV
-  - DOMAIN-SUFFIX,ssl.p.jwpcdn.com,ViuTV
   - DOMAIN-SUFFIX,viu.tv,ViuTV
   - DOMAIN-SUFFIX,viu.com,ViuTV
-  - DOMAIN-SUFFIX,api.viu.now.com,ViuTV
+  - DOMAIN-SUFFIX,viu.now.com,ViuTV
   - DOMAIN-SUFFIX,nowestatic.com,ViuTV
   - DOMAIN-SUFFIX,sdeweb.hkcsl.com,ViuTV
   - DOMAIN-SUFFIX,nowe.com,ViuTV
   - DOMAIN,d1k2us671qcoau.cloudfront.net,ViuTV
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net,ViuTV
   - DOMAIN,dfp6rglgjqszk.cloudfront.net,ViuTV
+  - DOMAIN,api.mixpanel.com,ViuTV
+  - DOMAIN,firestore.googleapis.com,ViuTV
+  - DOMAIN,csi.gstatic.com,ViuTV
+  - DOMAIN,api.viu.tv,ViuTV
+  - DOMAIN,static.viu.tv,ViuTV
