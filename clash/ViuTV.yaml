@@ -24,3 +24,5 @@ payload:
   - DOMAIN,csi.gstatic.com,ViuTV
   - DOMAIN,api.viu.tv,ViuTV
   - DOMAIN,static.viu.tv,ViuTV
+  - DOMAIN,cognito-identity.us-east-1.amazonaws.com,ViuTV
+  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,ViuTV
