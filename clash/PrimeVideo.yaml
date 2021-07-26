@@ -1,8 +1,8 @@
 payload:
   # > Amazon Prime Video
   - PROCESS-NAME,com.amazon.avod.thirdpartyclient,PrimeVideo
-  - USER-AGENT,InstantVideo.US*,PrimeVideo
-  - USER-AGENT,Prime%20Video*,PrimeVideo
+  # - USER-AGENT,InstantVideo.US*,PrimeVideo
+  # - USER-AGENT,Prime%20Video*,PrimeVideo
   - DOMAIN-SUFFIX,aiv-cdn.net,PrimeVideo
   - DOMAIN-SUFFIX,aiv-delivery.net,PrimeVideo
   - DOMAIN-SUFFIX,amazonprimevideo.cn,PrimeVideo
