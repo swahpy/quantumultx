@@ -1,7 +1,7 @@
 payload:  
   # > Now E
-  - PROCESS-NAME,com.pccw.nowemobile,NowE
-  - DOMAIN-SUFFIX,nowe.com,NowE
-  - DOMAIN-SUFFIX,now-tv.com,NowE
-  - DOMAIN-SUFFIX,ewcdn09.nowe.com,NowE
-  - DOMAIN-SUFFIX,nowestatic.com,NowE
+  - PROCESS-NAME,com.pccw.nowemobile
+  - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,now-tv.com
+  - DOMAIN-SUFFIX,ewcdn09.nowe.com
+  - DOMAIN-SUFFIX,nowestatic.com
