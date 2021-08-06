@@ -1,13 +1,13 @@
 payload:  
   # > Youtube
-  - PROCESS-NAME,com.google.android.youtube,Youtube
-  - PROCESS-NAME,com.google.android.youtube.tv,Youtube
-  - DOMAIN-KEYWORD,youtube,Youtube
-  - DOMAIN,youtubei.googleapis.com,Youtube
-  - DOMAIN,yt3.ggpht.com,Youtube
-  - DOMAIN-SUFFIX,googlevideo.com,Youtube
-  - DOMAIN-SUFFIX,gvt2.com,Youtube
-  - DOMAIN-SUFFIX,youtu.be,Youtube
-  - DOMAIN-SUFFIX,youtube.com,Youtube
-  - DOMAIN-SUFFIX,ytimg.com,Youtube
-  - DOMAIN-SUFFIX,newhtbook.com,Youtube
+  - PROCESS-NAME,com.google.android.youtube
+  - PROCESS-NAME,com.google.android.youtube.tv
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN,yt3.ggpht.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,newhtbook.com
