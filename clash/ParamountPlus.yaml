@@ -1,6 +1,8 @@
 payload:  
   # > Paramount Plus
   - PROCESS-NAME,com.cbs.app,Paramount
+  - DOMAIN-SUFFIX,time.apple.com,Paramount # 1
+  - DOMAIN-SUFFIX,device-metrics-us.amazon.com,Paramount # 1
   - DOMAIN-SUFFIX,sp.analytics.yahoo.com,Paramount
   - DOMAIN-SUFFIX,can.cbs.com,Paramount
   - DOMAIN-SUFFIX,cbsi.com,Paramount
