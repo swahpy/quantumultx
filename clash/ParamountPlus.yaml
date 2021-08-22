@@ -1,8 +1,6 @@
 payload:  
   # > Paramount Plus
   - PROCESS-NAME,com.cbs.app,Paramount
-  - DOMAIN-SUFFIX,time.apple.com,Paramount # 1
-  - DOMAIN-SUFFIX,device-metrics-us.amazon.com,Paramount # 1
   - DOMAIN-SUFFIX,sp.analytics.yahoo.com,Paramount
   - DOMAIN-SUFFIX,can.cbs.com,Paramount
   - DOMAIN-SUFFIX,cbsi.com,Paramount
@@ -35,3 +33,6 @@ payload:
   - DOMAIN-SUFFIX,paramountplus.com,Paramount
   - DOMAIN-SUFFIX,pplusstatic.com,Paramount
   - IP-CIDR,111.13.235.2/24,Paramount,no-resolve
+  # > 21-08-22
+  - DOMAIN-SUFFIX,time.apple.com,Paramount
+  - DOMAIN-SUFFIX,device-metrics-us.amazon.com,Paramount
