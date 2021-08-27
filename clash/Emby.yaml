@@ -1,0 +1,5 @@
+payload:  
+  # Emby 终点站
+  - DOMAIN-SUFFIX,emby.wtf
+  # Emby Tag
+  - DOMAIN-SUFFIX,emby.riches.cloud
