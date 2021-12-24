@@ -3,6 +3,7 @@ payload:
   - PROCESS-NAME,com.iqiyi.i18n,台湾爱奇艺
   - PROCESS-NAME,com.iqiyi.i18n.tv,台湾爱奇艺
   - IP-CIDR,223.119.62.225/28,台湾爱奇艺,no-resolve
+  - IP-CIDR,23.59.252.0/24,台湾爱奇艺,no-resolve
   - IP-CIDR,118.26.32.0/23,台湾爱奇艺,no-resolve
   - IP-CIDR,118.26.120.0/24,台湾爱奇艺,no-resolve
   - IP-CIDR,23.40.242.10/32,台湾爱奇艺,no-resolve
