@@ -3,6 +3,9 @@ payload:
   - PROCESS-NAME,com.netflix.mediaclient,NETFLIX
   - DOMAIN-KEYWORD,dualstack.apiproxy-,NETFLIX
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-,NETFLIX
+  - DOMAIN-KEYWORD,netflix
+  - DOMAIN-KEYWORD,nflx
+  - DOMAIN-SUFFIX,us-west-2.amazonaws.com
   - DOMAIN,netflix.com.edgesuite.net,NETFLIX
   - DOMAIN-SUFFIX,fast.com,NETFLIX
   - DOMAIN-SUFFIX,netflix.com,NETFLIX
