@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,nflximg.net
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,amazonaws.com # test
+  - DOMAIN-SUFFIX,akamaiedge.net # test
 
   # > BGP AS Search
   - IP-CIDR,103.87.204.0/22,no-resolve
