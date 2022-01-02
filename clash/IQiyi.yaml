@@ -48,4 +48,5 @@ payload:
   - DOMAIN-SUFFIX,qy.net,台湾爱奇艺
   - DOMAIN-SUFFIX,v-3df46e5a.71edge.com,台湾爱奇艺
   - DOMAIN-SUFFIX,inter.ptqy.gitv.tv,台湾爱奇艺
-  - DOMAIN-KEYWORD,qiyi,台湾爱奇艺
+  - DOMAIN-SUFFIX,tw.iqiyi.com,台湾爱奇艺
+  - DOMAIN-KEYWORD,iqiyi,台湾爱奇艺
