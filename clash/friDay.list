@@ -1,4 +1,6 @@
-HOST-SUFFIX,fetnet.net,friDay
-HOST-SUFFIX,friday.tw,friDay
-HOST-SUFFIX,litv.tv,friDay
-HOST-SUFFIX,fridaylogger.com,friDay
+payload:
+  - DOMAIN-SUFFIX,fetnet.net
+  - DOMAIN-SUFFIX,friday.tw
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN-SUFFIX,fridaylogger.com
+
