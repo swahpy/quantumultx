@@ -19,8 +19,10 @@ HOST-SUFFIX,dcblivedazn.akamaized.net,DAZN
 HOST-SUFFIX,indazn.com,DAZN
 HOST-SUFFIX,indaznlab.com,DAZN
 HOST-SUFFIX,intercom.io,DAZN
-HOST-SUFFIX,logx.optimizely.com,DAZN
+HOST-SUFFIX,optimizely.com,DAZN
+HOST-SUFFIX,conviva.com,DAZN
 HOST-SUFFIX,s.yimg.jp,DAZN
 HOST-SUFFIX,sentry.io,DAZN
 HOST-KEYWORD,voddazn,DAZN
+HOST-KEYWORD,livedazn,DAZN
 USER-AGENT,DAZN*,DAZN
