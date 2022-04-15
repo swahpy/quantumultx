@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,oupchina.com.hk
-  - DOMAIN-SUFFIX,oecd.oupchina.com.hk
+  - DOMAIN,oecd.oupchina.com.hk
+  - DOMAIN-KEYWORD,oupchina
