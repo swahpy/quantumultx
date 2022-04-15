@@ -1,4 +1,8 @@
 payload:
+  # rules for oecd 牛津英汉辞书
   - DOMAIN-SUFFIX,oupchina.com.hk
   - DOMAIN,oecd.oupchina.com.hk
   - DOMAIN-KEYWORD,oupchina
+  
+  # rules for bluestacks
+  - DOMAIN-SUFFIX,bluestacks.com
