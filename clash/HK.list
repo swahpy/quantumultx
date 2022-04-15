@@ -1,0 +1,3 @@
+# IP, Domian list that suits HK node
+payload:
+  - DOMAIN-SUFFIX,oecd.oupchina.com.hk
