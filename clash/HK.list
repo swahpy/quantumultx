@@ -3,6 +3,3 @@ payload:
   - DOMAIN-SUFFIX,oupchina.com.hk
   - DOMAIN,oecd.oupchina.com.hk
   - DOMAIN-KEYWORD,oupchina
-  
-  # rules for bluestacks
-  - DOMAIN-SUFFIX,bluestacks.com
