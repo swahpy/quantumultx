@@ -1,2 +1,3 @@
 # > Apple custom list
 HOST,inappcheck.itunes.apple.com,AppleCustom
+HOST-SUFFIX,push.apple.com,AppleCustom
