@@ -1,2 +1,4 @@
 # > rules about duolingo
 HOST-SUFFIX,duolingo.com,duolingo
+HOST-SUFFIX,duolingo.cn,duolingo
+DOMAIN-KEYWORD,unityads,duolingo
