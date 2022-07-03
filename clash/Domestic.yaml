@@ -3474,3 +3474,5 @@ payload:
   - DOMAIN-SUFFIX,srcgsre.com
   - DOMAIN-SUFFIX,thawte.com
   - DOMAIN-SUFFIX,cloudinary.com
+  # utorrent
+  - DOMAIN-SUFFIX,utorrent.com
