@@ -3476,3 +3476,5 @@ payload:
   - DOMAIN-SUFFIX,cloudinary.com
   # utorrent
   - DOMAIN-SUFFIX,utorrent.com
+  - DOMAIN-SUFFIX,soepub.com
+  - IP-CIDR,142.202.242.35/32
