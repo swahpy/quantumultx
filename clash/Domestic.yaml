@@ -3479,3 +3479,5 @@ payload:
   - DOMAIN-SUFFIX,soepub.com
   - IP-CIDR,142.202.242.35/32
   - IP-CIDR,62.210.123.112/32
+  # Unraid
+  - DOMAIN-SUFFIX,unraid.net
