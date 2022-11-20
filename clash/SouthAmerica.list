@@ -8,3 +8,4 @@ payload:
   - DOMAIN,star.connections.edge.bamgrid.com
   - DOMAIN,star.content.edge.bamgrid.com
   - DOMAIN,star.playback.edge.bamgrid.com
+  - DOMAIN,demdex.net
