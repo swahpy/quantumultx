@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,youtube.com,YouTube
 DOMAIN-SUFFIX,ytimg.com,YouTube
 DOMAIN,youtubei.googleapis.com,YouTube
 DOMAIN,yt3.ggpht.com,YouTube
+DOMAIN-SUFFIX, googleapis.com,Youtube
+DOMAIN-SUFFIX, google.com,Youtube
