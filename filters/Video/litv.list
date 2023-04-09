@@ -6,4 +6,7 @@
 # HOST-SUFFIX: 1
 # TOTAL: 2
 HOST,litvfreemobile-hichannel.cdn.hinet.net,LiTV
+HOST,hamifans.emome.net,LiTV
 HOST-SUFFIX,litv.tv,LiTV
+HOST-KEYWORD,litv,LiTV
+
