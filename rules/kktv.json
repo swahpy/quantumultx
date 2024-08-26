@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "theater-kktv.cdn.hinet.net",
+        "cubox.cc",
+        "drm.platform.blendvision.com",
+        "api.kktv.me",
+        "cdn.amplitude.com",
+        "clarity.ms",
+        "licensing.bitmovin.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "kktv.me",
+        "kktv.com.tw",
+        "cdn.hinet.net",
+        "cubox.cc",
+        "amnet.tw"
+      ]
+    }
+  ]
+}
